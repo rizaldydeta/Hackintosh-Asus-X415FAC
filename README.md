@@ -52,7 +52,7 @@ This is my complete EFI folder to be used for Hackintosh on Notebook Asus X415FA
   - `FN` + `F4` - Brightness Up
   - `FN` + `F5` - Brightness Down
   - `FN` + `F6` - Enable/Disable Touchpad
-  - `FN` + `F1` - Keyboard Backlight Up/Down
+  - `FN` + `F7` - Keyboard Backlight Up/Down
 - [x] CPU Power Management
 - [x] USB Ports
 - [x] Touchpad
