@@ -65,3 +65,14 @@ This is my complete EFI folder to be used for Hackintosh on Notebook Asus X415FA
 - [ ] Camera
  
 --------------------------------------------------------------------------------------------
+
+### Credits
+- [Apple](https://apple.com) for macOS.
+- [Acidanthera](https://github.com/acidanthera) for OpenCore and the majority of the kexts.
+- [Dortania](https://github.com/dortania) For great and detailed guides.
+- [Rehabman](https://github.com/RehabMan) for contributing to most of the ACPI patching guides I used.
+- [Bao-Hiep Le](https://github.com/hieplpvip/AsusSMC) for patch Asus Laptops keyboard backlight and Fn keys.
+- [Andres ZeroCross](https://github.com/andreszerocross) for simple patch HPET, RTC, TIMR, IPIC and Devices.
+- [VoodooI2C Team](https://github.com/VoodooI2C/VoodooI2C) for patch touchpad i2c controller.
+- every other people that contributed to the hackintosh world.
+ 
