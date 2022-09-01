@@ -3,6 +3,7 @@
 [![OpenCore Version](https://img.shields.io/badge/OpenCore-0.8.3-cyan.svg)](https://github.com/acidanthera/OpenCorePkg/releases/latest)
 [![macOS Monterey](https://img.shields.io/badge/macOS-12.4-white.svg)](https://www.apple.com/macos/monterey/)
 [![Release](https://img.shields.io/badge/Download-latest-success.svg)](https://github.com/rizaldydeta/Hackintosh-Asus-X415FAC/releases/latest)
+[![Donate with PayPal](https://img.shields.io/badge/paypal-donate-red.svg)](https://paypal.me/rizaldydeta)
 
 Hackintosh resources for Asus X415FAC
 
@@ -83,5 +84,5 @@ This is my complete EFI folder to be used for Hackintosh on Notebook Asus X415FA
 - [VoodooI2C](https://github.com/VoodooI2C/VoodooI2C) for touchpad i2c controller kexts.
 - every other people that contributed to the hackintosh world.
 
-### If you need help please contact us on [Telegram](https://t.me/rizaldydeta)
+### If you need help please contact me on [Telegram](https://t.me/rizaldydeta)
  
