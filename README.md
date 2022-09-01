@@ -82,4 +82,6 @@ This is my complete EFI folder to be used for Hackintosh on Notebook Asus X415FA
 - [Andres ZeroCross](https://github.com/andreszerocross) for simple patch HPET, RTC, TIMR, IPIC and Devices.
 - [VoodooI2C](https://github.com/VoodooI2C/VoodooI2C) for touchpad i2c controller kexts.
 - every other people that contributed to the hackintosh world.
+
+### If you need help please contact us on [Telegram](https://t.me/rizaldydeta)
  
