@@ -4,7 +4,9 @@ Hackintosh resources for Asus X415FAC
 
 This is my complete EFI folder to be used for Hackintosh on Notebook Asus X415FAC
 
-<img src="/images/X415fac-center.png?raw=true" alt="ASUS X415FAC Model" align="center">
+<p align="center">
+  <img src="/images/X415fac-center.png?raw=true" alt="ASUS X415FAC Model">
+</p>
 
 ### How to Get it?
 
