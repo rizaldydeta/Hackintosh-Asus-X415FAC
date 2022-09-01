@@ -7,8 +7,9 @@ This is my complete EFI folder to be used for Hackintosh on Notebook Asus X415FA
 <p align="center">
   <img src="/images/X415fac-center.png?raw=true" alt="ASUS X415FAC Model">
 </p>
-
+<p align="center">
 [![release](https://img.shields.io/github/release/rizaldydeta/Hackintosh-Asus-X415FAC.svg)](https://github.com/rizaldydeta/Hackintosh-Asus-X415FAC/releases)
+</p>
 
 ### How to Get it?
 
