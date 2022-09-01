@@ -84,5 +84,7 @@ This is my complete EFI folder to be used for Hackintosh on Notebook Asus X415FA
 - [VoodooI2C](https://github.com/VoodooI2C/VoodooI2C) for touchpad i2c controller kexts.
 - every other people that contributed to the hackintosh world.
 
+--------------------------------------------------------------------------------------------
+
 ### If you need help please contact me on [Telegram](https://t.me/rizaldydeta)
  
