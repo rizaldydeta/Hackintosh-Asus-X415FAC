@@ -25,7 +25,7 @@ This is my complete EFI folder to be used for Hackintosh on Notebook Asus X415FA
 - [x] <b>SSD NVMe</b>: 256GB
 - [x] <b>Audio</b>: Realtek ALC256
 - [x] <b>WiFi</b>: Intel Wireless-AC 9560
-- [x] <b>Touchpad</b>: Elan 1200 I2C Interface
+- [x] <b>Touchpad</b>: I2C ELAN1200
 - [x] <b>BIOS version</b>: X415FAC.202
 
 --------------------------------------------------------------------------------------------
@@ -46,6 +46,13 @@ This is my complete EFI folder to be used for Hackintosh on Notebook Asus X415FA
 - [x] HDMI Audio
 - [x] Brightness
 - [x] Function FN Keys
+  - [`FN` + `F1` - Volume Mute
+  - [`FN` + `F2` - Volume Down
+  - [`FN` + `F3` - Volume Up
+  - [`FN` + `F4` - Brightness Up
+  - [`FN` + `F5` - Brightness Down
+  - [`FN` + `F6` - Enable/Disable Touchpad
+  - [`FN` + `F1` - Keyboard Backlight Up/Down
 - [x] CPU Power Management
 - [x] USB Ports
 - [x] Touchpad
