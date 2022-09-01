@@ -46,13 +46,13 @@ This is my complete EFI folder to be used for Hackintosh on Notebook Asus X415FA
 - [x] HDMI Audio
 - [x] Brightness
 - [x] Function FN Keys
-  `FN` + `F1` - Volume Mute
-  `FN` + `F2` - Volume Down
-  `FN` + `F3` - Volume Up
-  `FN` + `F4` - Brightness Up
-  `FN` + `F5` - Brightness Down
-  `FN` + `F6` - Enable/Disable Touchpad
-  `FN` + `F1` - Keyboard Backlight Up/Down
+  - `FN` + `F1` - Volume Mute
+  - `FN` + `F2` - Volume Down
+  - `FN` + `F3` - Volume Up
+  - `FN` + `F4` - Brightness Up
+  - `FN` + `F5` - Brightness Down
+  - `FN` + `F6` - Enable/Disable Touchpad
+  - `FN` + `F1` - Keyboard Backlight Up/Down
 - [x] CPU Power Management
 - [x] USB Ports
 - [x] Touchpad
