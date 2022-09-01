@@ -74,6 +74,6 @@ This is my complete EFI folder to be used for Hackintosh on Notebook Asus X415FA
 - [OpenIntelWireless](https://github.com/OpenIntelWireless) for intel wifi and bluetooth kexts.
 - [Bao-Hiep Le](https://github.com/hieplpvip/AsusSMC) for patch Asus Laptops keyboard backlight and Fn keys.
 - [Andres ZeroCross](https://github.com/andreszerocross) for simple patch HPET, RTC, TIMR, IPIC and Devices.
-- [VoodooI2C Team](https://github.com/VoodooI2C/VoodooI2C) for patch touchpad i2c controller.
+- [VoodooI2C](https://github.com/VoodooI2C/VoodooI2C) for touchpad i2c controller kexts.
 - every other people that contributed to the hackintosh world.
  
