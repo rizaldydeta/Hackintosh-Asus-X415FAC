@@ -7,6 +7,11 @@ This is my complete EFI folder to be used for Hackintosh on Notebook Asus X415FA
 <p align="center">
   <img src="/images/X415fac-center.png?raw=true" alt="ASUS X415FAC Model">
 </p>
+<p align="center">
+  <img alt="Pod Version" src="https://img.shields.io/cocoapods/v/TLYShyNavBar.svg" />
+  <img alt="Pod License" src="https://img.shields.io/badge/license-MIT-blue.svg" />
+  <img alt="Carthage compatible" src="https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage" />
+</p>
 <div align="center">
 [![BIOS](https://img.shields.io/badge/BIOS-202-important.svg)](https://www.asus.com/supportonly/X415FAC/HelpDesk_BIOS/)
 [![OpenCore Version](https://img.shields.io/badge/OpenCore-0.8.3-cyan.svg)](https://github.com/acidanthera/OpenCorePkg/releases/latest)
