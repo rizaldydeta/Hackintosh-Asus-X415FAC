@@ -31,7 +31,7 @@ This is my complete EFI folder to be used for Hackintosh on Notebook Asus X415FA
 --------------------------------------------------------------------------------------------
 
 ### EFI Contains
-- [x] <b>OpenCore Bootloader binary, config.plist</b>, drivers for uefi, themes, etc..
+- [x] <b>OpenCore Bootloader</b> binary, config.plist, drivers, themes, tools, etc..
 - [x] <b>Patched ACPI Tables (DSDT)</b> for Graphics, Audio, WiFi, Battery, Touchpad, etc..
 - [x] <b>3rd party kexts</b> for working devices under Mac OS Catalina 10.15.x upto macOS Ventura 13.x
  
