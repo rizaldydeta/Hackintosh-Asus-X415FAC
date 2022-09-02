@@ -67,7 +67,7 @@ This is my complete EFI folder to be used for Hackintosh on Notebook Asus X415FA
 --------------------------------------------------------------------------------------------
  
 ### Not Worked / Bugs
-- [ ] Camera
+- [ ] Internal Webcam, just black output (Common Problem for VivoBook Series)
  
 --------------------------------------------------------------------------------------------
 
