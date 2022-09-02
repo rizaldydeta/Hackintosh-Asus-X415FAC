@@ -43,13 +43,18 @@ This is my complete EFI folder to be used for Hackintosh on Notebook Asus X415FA
 --------------------------------------------------------------------------------------------
  
 ### What Worked
+- [x] QE/CI Graphics Of IGPU UHD 630
 - [x] Restart, Sleep and Shutdown
-- [x] Audio Out (In and Ext) + Int. Mic and Still Work after Wake
-- [x] Sleep and Wake with Close and Open LID
-- [x] QE/CI of IGPU
-- [x] HDMI Out
-- [x] HDMI Audio
+- [x] Internal Speaker, Headphone audio and Internal Mic
 - [x] Brightness
+- [x] Backlight keyboard
+- [x] Touchpad
+- [x] HDMI
+- [x] HDMI Audio
+- [x] Wifi
+- [x] Bluetooth
+- [x] Battery Indicator
+- [x] All USB Ports
 - [x] Function FN Keys
   - `FN` + `F1` - Volume Mute
   - `FN` + `F2` - Volume Down
@@ -58,12 +63,6 @@ This is my complete EFI folder to be used for Hackintosh on Notebook Asus X415FA
   - `FN` + `F5` - Brightness Down
   - `FN` + `F6` - Enable/Disable Touchpad
   - `FN` + `F7` - Keyboard Backlight Up/Down
-- [x] CPU Power Management
-- [x] USB Ports
-- [x] Touchpad
-- [x] Battery Indicator
-- [x] Bluetooth
-- [x] WiFI
  
 --------------------------------------------------------------------------------------------
  
