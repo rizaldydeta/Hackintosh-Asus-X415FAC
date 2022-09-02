@@ -23,15 +23,15 @@ This is my complete EFI folder to be used for Hackintosh on Notebook Asus X415FA
 ### Notebook Specs
 <img src="/images/x415fac.png?raw=true" width="400" height="400" alt="Asus X41FAC" align="right">
 
-- [x] <b>Model</b>: Asus X415FAC
-- [x] <b>CPU</b>: Intel Core i3-10110U CPU @ 2.10GHz, 4 logical CPUs
-- [x] <b>GPU</b>: Intel UHD Graphics 630 @ 1536 MB
-- [x] <b>RAM</b>: 8GB
-- [x] <b>SSD NVMe</b>: 256GB
-- [x] <b>Audio</b>: Realtek ALC256
-- [x] <b>WiFi</b>: Intel Wireless-AC 9560
-- [x] <b>Touchpad</b>: I2C ELAN1200
-- [x] <b>BIOS version</b>: X415FAC.202
+- <b>Model</b>: Asus X415FAC
+- <b>CPU</b>: Intel Core i3-10110U CPU @ 2.10GHz, 4 logical CPUs
+- <b>GPU</b>: Intel UHD Graphics 630 @ 1536 MB
+- <b>RAM</b>: 8GB
+- <b>SSD NVMe</b>: 256GB
+- <b>Audio</b>: Realtek ALC256
+- <b>WiFi</b>: Intel Wireless-AC 9560
+- <b>Touchpad</b>: I2C ELAN1200
+- <b>BIOS version</b>: X415FAC.202
 
 --------------------------------------------------------------------------------------------
 
