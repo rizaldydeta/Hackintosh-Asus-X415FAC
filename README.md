@@ -10,18 +10,18 @@ Hackintosh resources for Asus X415FAC
 This is my complete EFI folder to be used for Hackintosh on Notebook Asus X415FAC
 
 <p align="center">
-  <img src="/images/X415fac-center.png?raw=true" alt="ASUS X415FAC Model">
+  <img src="/images/X415fac-center.png?raw=true" width="400” height="400” alt="ASUS X415FAC Model">
 </p>
 
 ### How to Get it?
 
 - Open Terminal with Command: $ `git clone https://github.com/rizaldydeta/Hackintosh-Asus-X415FAC`
-- Or Just [Clone/Download](https://github.com/rizaldydeta/Hackintosh-Asus-X415FAC.git) with Specific Folder Only
+- Or Just [Clone](https://github.com/rizaldydeta/Hackintosh-Asus-X415FAC.git)/[Download](https://github.com/rizaldydeta/Hackintosh-Asus-X415FAC/releases/latest) with Specific Folder Only
 
 --------------------------------------------------------------------------------------------
 
 ### Notebook Specs
-<img src="/images/x415fac.png?raw=true" alt="Asus X41FAC" align="right">
+<img src="/images/x415fac.png?raw=true" width="400” height="400” alt="Asus X41FAC" align="right">
 
 - [x] <b>Model</b>: Asus X415FAC
 - [x] <b>CPU</b>: Intel Core i3-10110U CPU @ 2.10GHz, 4 logical CPUs
