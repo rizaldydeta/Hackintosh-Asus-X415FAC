@@ -1,4 +1,6 @@
 # Hackintosh Asus X415FAC
+[![Github release](https://img.shields.io/github/release/rizaldydeta/Hackintosh-Asus-X415FAC.svg?color=blue)](https://github.com/rizaldydeta/Hackintosh-Asus-X415FAC/releases/latest)
+[![Github downloads](https://img.shields.io/github/downloads/rizaldydeta/Hackintosh-Asus-X415FAC/total.svg?color=blue)](https://github.com/rizaldydeta/Hackintosh-Asus-X415FAC/releases)
 [![BIOS](https://img.shields.io/badge/BIOS-202-important.svg)](https://www.asus.com/supportonly/X415FAC/HelpDesk_BIOS/)
 [![OpenCore Version](https://img.shields.io/badge/OpenCore-0.8.3-cyan.svg)](https://github.com/acidanthera/OpenCorePkg/releases/latest)
 [![macOS Monterey](https://img.shields.io/badge/macOS-12.4-white.svg)](https://www.apple.com/macos/monterey/)
